@@ -1,0 +1,6 @@
+﻿1>------ Сборка начата: проект: lab7-NEW, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>C:\ucheba\Graphic\task7\lab7NEW\lab7-NEW\lab7-NEW\Source.cpp(254,12): warning C4101: i: неиспользованная локальная переменная
+1>lab7-NEW.vcxproj -> C:\ucheba\Graphic\task7\lab7NEW\lab7-NEW\Debug\lab7-NEW.exe
+1>Сборка проекта "lab7-NEW.vcxproj" завершена.
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
