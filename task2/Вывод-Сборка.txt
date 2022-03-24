@@ -1,0 +1,4 @@
+﻿1>------ Сборка начата: проект: task2, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>task2.vcxproj -> C:\Users\Ефимова Даша\Desktop\ucheba\Graphic\task2\task2\Debug\task2.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
