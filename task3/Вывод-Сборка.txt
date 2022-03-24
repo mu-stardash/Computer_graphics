@@ -1,0 +1,11 @@
+﻿1>------ Сборка начата: проект: task4, Конфигурация: Debug Win32 ------
+1>Source.cpp
+1>C:\ucheba\Graphic\task4\task4\task4\Source.cpp(39,8): warning C4101: float_x: неиспользованная локальная переменная
+1>C:\ucheba\Graphic\task4\task4\task4\Source.cpp(37,9): warning C4101: y: неиспользованная локальная переменная
+1>C:\ucheba\Graphic\task4\task4\task4\Source.cpp(39,26): warning C4101: float_xb: неиспользованная локальная переменная
+1>C:\ucheba\Graphic\task4\task4\task4\Source.cpp(37,6): warning C4101: x: неиспользованная локальная переменная
+1>C:\ucheba\Graphic\task4\task4\task4\Source.cpp(39,17): warning C4101: float_y: неиспользованная локальная переменная
+1>C:\ucheba\Graphic\task4\task4\task4\Source.cpp(39,36): warning C4101: float_yb: неиспользованная локальная переменная
+1>task4.vcxproj -> C:\ucheba\Graphic\task4\task4\Debug\task4.exe
+1>Сборка проекта "task4.vcxproj" завершена.
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
